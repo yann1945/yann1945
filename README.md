@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/Bu_fE4hI3ksAAAAi/jujutsu-kaisen-chousou.gif" width="100"> ZAHWAZEIN'S PROFILE  
+# <img src="https://media.tenor.com/Bu_fE4hI3ksAAAAi/jujutsu-kaisen-chousou.gif" width="100"> YANNEXDI PROFILE  
 
 Heloo... Gweh Yann
 <br>
