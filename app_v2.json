@@ -1,0 +1,62 @@
+{
+    "animeverse": {
+        "version": "1.2.1",
+        "maintenance": false
+    },
+    "nextai": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
+    "nextquran": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
+    "nenovel": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
+    "zeneko": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
+    "nextdownloader": {
+        "version": "2.4.0",
+        "maintenance": false
+    },
+    "nenime": {
+        "version": "2.8.0",
+        "maintenance": false
+    },
+    "nekomik": {
+        "version": "2.2.9",
+        "maintenance": false
+    },
+    "nenimev2": {
+        "version": "2.4.2",
+        "maintenance": false
+    },
+    "wabotz": {
+        "version": "7.0.0",
+        "maintenance": false
+    },
+    "doujinz": {
+        "version": "2.2.8",
+        "maintenance": false
+    },
+    "komikz": {
+        "version": "1.1.1",
+        "maintenance": false
+    },
+    "animestream": {
+        "version": "1.2.1",
+        "maintenance": false
+    },
+    "app": {
+        "version": "1.2.5",
+        "maintenance": false
+    },
+    "tiktok_downloader": {
+        "version": "2.3.0",
+        "maintenance": false
+    }
+}
